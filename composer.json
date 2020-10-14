@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyNamespace\\": "src"
+        }
+    },
+    "require": {
+        "rector/rector-prefixed": "0.8.23",
+        "nesbot/carbon": "2.41.3"
+    }
+}
